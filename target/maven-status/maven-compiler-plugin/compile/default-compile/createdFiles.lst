@@ -1,0 +1,14 @@
+com\w2a\base\BasePage.class
+com\w2a\extentlisteners\ExtentListeners.class
+com\w2a\pages\CRMPage.class
+com\w2a\pages\HomePage.class
+com\w2a\utilities\TestCaseRunMode.class
+com\w2a\pages\LoginPage.class
+com\w2a\utilities\DBManager.class
+com\w2a\utilities\ScreenshotUtil.class
+com\w2a\extentlisteners\ExtentManager.class
+com\w2a\utilities\ExcelReader.class
+com\w2a\pages\ZohoAppPage.class
+com\w2a\utilities\DBConfig.class
+com\w2a\utilities\DataUtil.class
+com\w2a\base\TopMenu.class
